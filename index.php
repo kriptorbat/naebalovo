@@ -1,1 +1,1 @@
-echo 'hello pider';
+<?php echo 'hello pider';?>
